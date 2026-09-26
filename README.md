@@ -1,6 +1,6 @@
 ![Thomas Marmol, operations and software, Key West, Florida](banner.png)
 
-He runs landscaping crews and writes the software those crews use. A problem found
+He runs landscaping crews and writes software for those crews. A problem found
 on a job site in the morning is fixed by the evening, because the person who found
 it is the person who writes the code.
 
@@ -8,7 +8,7 @@ it is the person who writes the code.
 
 ---
 
-### Shipped
+### Building
 
 **GroundCrew** &middot; iOS and web &middot; Swift, SwiftUI, Firebase, Next.js<br>
 Built for an owner of two to twelve people who is on a truck, not at a desk. Orders
