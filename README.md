@@ -10,13 +10,13 @@ it is the person who writes the code.
 
 ### Shipped
 
-**GroundCrew** &middot; iOS and web &middot; Swift, SwiftUI, Firebase, Next.js
+**GroundCrew** &middot; iOS and web &middot; Swift, SwiftUI, Firebase, Next.js<br>
 Built for an owner of two to twelve people who is on a truck, not at a desk. Orders
 the route, holds the checklist for each property, and collects two photographs,
 before and after from the same spot, so the invoice can leave the same day the work
 was done. Three weeks later, when a customer says nobody came, the argument is over.
 
-**Crew Talk** &middot; iOS &middot; Swift, SwiftUI
+**Crew Talk** &middot; iOS &middot; Swift, SwiftUI<br>
 Voice only, both directions, English and Spanish. A worker holds one button and says
 it, the phone cleans the sentence and says it back in the other language. Nobody
 takes a glove off.
