@@ -1,8 +1,7 @@
 ![Thomas Marmol, operations and software, Key West, Florida](banner.png)
 
-He runs landscaping crews and writes software for those crews. A problem found
-on a job site in the morning is fixed by the evening, because the person who found
-it is the person who writes the code.
+He runs landscaping crews and writes software for that work. The person who
+finds the problem on the job site is the person who writes the code.
 
 **[thomasmarmol.com](https://thomasmarmol.com)**
 
